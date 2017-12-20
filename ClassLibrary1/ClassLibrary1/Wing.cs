@@ -9,5 +9,7 @@ namespace ClassLibrary1
     class Wing
     {
         public string Color { get; set; }
+
+        public int Count { get; set; }
     }
 }
