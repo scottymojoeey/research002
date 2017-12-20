@@ -8,5 +8,6 @@ namespace ClassLibrary1
 {
     class Wing
     {
+        public string Color { get; set; }
     }
 }
