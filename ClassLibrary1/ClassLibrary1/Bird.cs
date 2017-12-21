@@ -8,6 +8,6 @@ namespace ClassLibrary1
 {
     public class Bird
     {
-        
+        public Eye Eye { get; set; }
     }
 }

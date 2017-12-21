@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Wing
+    public class Eye
     {
-        public Wing() { }
-        public string Color { get; set; }
-        public int Count { get; set; }
     }
 }
