@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Bird
+    public class Wing
     {
-        public Wing Wing { get; set; }
-        public Eye Eye { get; set; }
-        public Beak Beak { get; set; }
     }
 }
