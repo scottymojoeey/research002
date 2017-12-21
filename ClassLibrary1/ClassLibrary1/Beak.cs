@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    class Beak
+    public class Beak
     {
+
+        public Beak()
+        {
+
+        }
     }
 }

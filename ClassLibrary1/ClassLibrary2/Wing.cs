@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace ClassLibrary2
 {
     public class Wing
     {
-        public Wing() { }
-        public string Color { get; set; }
-        public int Count { get; set; }
     }
 }

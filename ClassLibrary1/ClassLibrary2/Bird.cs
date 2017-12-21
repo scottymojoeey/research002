@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace ClassLibrary2
 {
-    public class Bird
+    class Bird
     {
-        
+        public Wing Wing { get; set; }
     }
 }
